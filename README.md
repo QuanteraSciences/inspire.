@@ -12,5 +12,7 @@ https://en.wikipedia.org/wiki/Abiogenesis https://en.wikipedia.org/wiki/Isotopic
 ## Product: Blk.Water
 https://shop.getblk.com/
 
-## relation: Soil chemistry
-https://en.wikipedia.org/wiki/Soil_chemistry
+## relation: Soil chemistry, science
+- https://en.wikipedia.org/wiki/Soil_chemistry
+- https://en.wikipedia.org/wiki/Pedology
+- https://en.wikipedia.org/wiki/Soil_science
